@@ -1,0 +1,11 @@
+# Django framework
+Django>=4.2  
+
+# Image handling (for product images)
+pillow  
+
+# Filtering support (used for category filtering in views)
+django-filter  
+
+# Bootstrap integration (for styling)
+django-bootstrap-v5  
